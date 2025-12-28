@@ -31,4 +31,4 @@ A **logistic regression model** is used to estimate the probability of diabetes,
 
 ## Author
 Cherfaoui Houssam Abderrahmane  
-Group 2
+
